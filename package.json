@@ -3,6 +3,7 @@
 	"author": "David",
 	"description": "este proyecto sirve para algo... eso creo... el hecho es que esta es una practica",
 	"keywords": ["freecodecamp","margaret","shampoo"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
