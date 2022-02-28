@@ -4,6 +4,7 @@
 	"description": "este proyecto sirve para algo... eso creo... el hecho es que esta es una practica",
 	"keywords": ["freecodecamp","margaret","shampoo"],
 	"license": "MIT",
+	"version": "1.0.3",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
